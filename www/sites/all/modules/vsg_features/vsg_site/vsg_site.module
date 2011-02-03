@@ -1,0 +1,3 @@
+<?php
+
+include_once('vsg_site.features.inc');
